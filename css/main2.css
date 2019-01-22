@@ -1,0 +1,7 @@
+@import 'base.css';
+img{width: 90%;}
+.bg{ background-color: #363a51; position: absolute; top: 22%; width: 100%; height: 400px; z-index: -999;}
+.doctors{ position: relative;}
+.doctor{ float: left; font-family: 'Noto Sans KR', sans-serif; padding-right:4em;}
+.doctor > h3{color: #5988cc; padding-top: 0.5rem; text-align: right;}
+.doctor > h5{color: aliceblue; text-align: right; padding: 1rem 0; line-height: 160%;}
